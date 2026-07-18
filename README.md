@@ -44,7 +44,7 @@
 
 📫 Reach Me
 
-📧 Email: your-email@gmail.com
+📧 Email: swatijadhav02004@gmail.com
 
 🌐 Portfolio: Coming Soon...
 
