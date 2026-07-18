@@ -13,9 +13,8 @@
 </h3>
 
 ---
-
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="450"/>
 </p>
 
 # 💻 About Me
