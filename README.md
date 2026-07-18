@@ -50,9 +50,7 @@ Interests:
 
 Goal:
   Become an AI Engineer 🚀
-```
-
----
+----
 
 # 🚀 Skills & Tech Stack
 
