@@ -19,7 +19,7 @@
 
 # 👩‍💻 About Me
 
-🎓 AI & Data Science Undergraduate passionate about building intelligent systems
+🎓 AI & Data Science graduate student passionate about building intelligent systems
 
 🤖 Exploring the world of Artificial Intelligence, Machine Learning, Deep Learning, NLP, Computer Vision & Generative AI
 
