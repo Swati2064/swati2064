@@ -1,67 +1,139 @@
 <h1 align="center">Hi 👋, I'm Swati Jadhav</h1>
-<h3 align="center">AI & Data Science Student | Full Stack Data Science Learner | Aspiring AI Engineer</h3>
+<h3 align="center">AI & Data Science Student | Full Stack Data Science Learner | AI Enthusiast from India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-### 👩‍💻 About Me
-
-- 🎓 AI & Data Science Student
-- 🌱 Currently learning **Agentic AI, Generative AI, LangChain & LLMs**
-- 💻 Passionate about Machine Learning, Deep Learning and Python
-- 🚀 Building AI-powered projects
-- 📫 Reach me: **your-email@gmail.com**
-
----
-
-### 🚀 Languages and Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql,git,github,vscode,flask,tensorflow,pytorch" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;AI+%26+Data+Science+Student;Machine+Learning+Developer;Generative+AI+Learner;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 👩‍💻 About Me
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark)
+- 🎓 AI & Data Science Student
+- 🌱 Currently learning **Generative AI, Agentic AI, LangChain & LLMs**
+- 💻 Love building AI-powered applications
+- 📊 Interested in Machine Learning & Deep Learning
+- 🚀 Always learning new technologies
+- 📫 Reach me at **YOUR_EMAIL**
 
 ---
 
-### 🔥 Featured Projects
+## 🌐 Connect With Me
 
-- 🤖 AI Learning Buddy
-- 😊 Smile & Age Prediction
-- 🌱 Plant Disease Detection
-- 🎬 Movie Recommendation System
-- 📊 Student Depression Prediction
+<p align="left">
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 
----
+<a href="https://linkedin.com/in/swati-jadhav-b759a6315">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+</p>
 
 ---
 
-### 👀 Profile Views
+# 💻 Tech Stack
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+</p>
 
 ---
 
-### ⚡ Fun Fact
+# 📊 GitHub Stats
 
-> "Keep Learning, Keep Building, Keep Growing 🚀"
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Swati's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)](https://github.com/YOUR_GITHUB_USERNAME)
+
+---
+
+# 🚀 Featured Projects
+
+⭐ AI Learning Buddy
+
+⭐ Smile & Age Prediction
+
+⭐ Plant Disease Detection
+
+⭐ Student Depression Prediction
+
+⭐ Student Marks Predictor
+
+⭐ Healthcare Data Visualization
+
+---
+
+# 💡 Quote
+
+> **"Success comes from continuous learning, consistent practice, and never giving up."**
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
+
+<p align="center">
+
+### ⭐ If you like my work, don't forget to Star my repositories!
+
+</p>
 
