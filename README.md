@@ -17,5 +17,5 @@ AI & Data Science Student | Python Developer | AI Enthusiast
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Student;Python+Developer;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Generative+AI+Learner;Computer+Vision;Open+Source+Contributor;Always+Learning+New+Things❤️">
 </p>
