@@ -1,181 +1,67 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Swati Jadhav</h1>
+<h3 align="center">AI & Data Science Student | Full Stack Data Science Learner | Aspiring AI Engineer</h3>
 
-# 👋 Hello, I'm Swati!
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-### 🎓 AI & Data Science Student
+### 👩‍💻 About Me
 
-### 🚀 Learning Today • Building Tomorrow • Innovating with AI
-
-# <span style="color:#00BFFF;">Always Curious Always Learning</span>
-
-### 💙 *Driven by curiosity. Powered by learning. Inspired by Artificial Intelligence.*
-
-</div>
-
----
-
-# 👋 Hello World! I'm Swati Jadhav
-
-<p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="420">
-</p>
----
-
-# 🙋 About Me
-
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning & Generative AI**
-- 💡 Interested in building real-world AI applications
-- 🧠 Currently learning **LangChain, Agentic AI, RAG, LLMs & MLOps**
-- 💻 Experienced with **Python, SQL, TensorFlow, PyTorch, Streamlit, Flask, OpenCV & Git**
-- 🚀 Building Machine Learning, Computer Vision & NLP applications
-- 📊 Exploring Data Analytics & Data Visualization
-- 🌱 Continuously improving coding and AI development skills
-- 🤝 Open to Internships, Open Source & Collaborations
+- 🎓 AI & Data Science Student
+- 🌱 Currently learning **Agentic AI, Generative AI, LangChain & LLMs**
+- 💻 Passionate about Machine Learning, Deep Learning and Python
+- 🚀 Building AI-powered projects
+- 📫 Reach me: **your-email@gmail.com**
 
 ---
 
-# 🌟 Who Am I?
+### 🚀 Languages and Tools
 
-🎓 AI & Data Science Student
-
-🤖 AI Enthusiast
-
-🐍 Python Developer
-
-📊 Machine Learning Learner
-
-🧠 Deep Learning Explorer
-
-💬 NLP Learner
-
-👁 Computer Vision Enthusiast
-
-🚀 Building AI Applications
-
-🌱 Learning Every Day
-
----
-
-# 🚀 Current Focus
-
-- 🤖 Large Language Models (LLMs)
-
-- 🧠 Generative AI
-
-- 🔥 Agentic AI
-
-- 💬 NLP
-
-- 👁 Computer Vision
-
-- 📊 Machine Learning
-
-- 📈 Deep Learning
-
-- ☁️ MLOps
-
----
-
-# 🎯 2026 Goals
-
-✅ Build 50+ AI Projects
-
-✅ Master LangChain
-
-✅ Master Agentic AI
-
-✅ Learn Advanced Deep Learning
-
-✅ Contribute to Open Source
-
-✅ Become an AI Engineer
-
----
-
-# 💻 Tech Stack
-
-## 👩‍💻 Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<img src="https://skillicons.dev/icons?i=html" />
-
-<img src="https://skillicons.dev/icons?i=css" />
-
-<img src="https://skillicons.dev/icons?i=javascript" />
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql,git,github,vscode,flask,tensorflow,pytorch" />
 </p>
 
 ---
 
-## 🤖 AI & Machine Learning
+### 📊 GitHub Stats
 
-<p>
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-</p>
-
-✔ Machine Learning
-
-✔ Deep Learning
-
-✔ Computer Vision
-
-✔ NLP
-
-✔ Generative AI
-
-✔ Agentic AI
-
-✔ LangChain
-
-✔ LLMs
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌐 Web Development
+### 🏆 GitHub Trophies
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-</p>
-
-✔ Flask
-
-✔ Streamlit
-
-✔ FastAPI
+![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark)
 
 ---
 
-## 🛠 Tools
+### 🔥 Featured Projects
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=jupyter"/>
-
-</p>
+- 🤖 AI Learning Buddy
+- 😊 Smile & Age Prediction
+- 🌱 Plant Disease Detection
+- 🎬 Movie Recommendation System
+- 📊 Student Depression Prediction
 
 ---
 
-# ⚡ Fun Fact
+### 🌐 Connect with Me
 
-> **"I love turning ideas into AI-powered applications."**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+
+---
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue)
+
+---
+
+### ⚡ Fun Fact
+
+> "Keep Learning, Keep Building, Keep Growing 🚀"
 
