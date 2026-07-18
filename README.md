@@ -18,20 +18,29 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="450"/>
 </p>
 
-# 💻 About Me
+## 👩‍💻 About Me
 
-```yaml
-Name: Swati Jadhav
-Role: AI & Data Science Student
-Location: Maharashtra, India
+🎓 AI & Data Science Graduate passionate about building intelligent systems
 
-Currently Learning:
-  - Machine Learning
-  - Deep Learning
-  - Generative AI
-  - Agentic AI
-  - NLP
-  - Computer Vision
+🤖 Exploring the world of **Artificial Intelligence, Machine Learning, Deep Learning, NLP, Computer Vision & Generative AI**
+
+🚀 Currently learning **LangChain, Agentic AI, RAG, LLMs, AI Agents & MLOps**
+
+💻 Tech Stack: **Python • SQL • TensorFlow • PyTorch • Streamlit • Flask • OpenCV • Scikit-learn • Pandas • NumPy • Git & GitHub**
+
+🛠️ Love developing **end-to-end AI applications**, dashboards, and predictive machine learning solutions
+
+📊 Interested in **Data Science, Analytics, Model Deployment, Automation & AI Research**
+
+🌱 Continuously sharpening my skills through projects, open-source contributions, and hands-on learning
+
+🤝 Looking for **Internships, AI Research Opportunities & Open Source Collaborations**
+
+📫 **Email:** swatijadhav02004@gmail.com
+
+🌍 **Location:** Maharashtra, India 🇮🇳
+
+💙 **Mission:** To leverage Artificial Intelligence for solving real-world challenges and creating impactful, user-centric solutions.
 
 Interests:
   - AI Applications
