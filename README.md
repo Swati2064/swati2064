@@ -4,8 +4,6 @@
 
 ---
 
-# 🎨 Beautiful Header
-
 <h2 align="center">
 🚀 Learning Today • Building Tomorrow • Innovating with AI
 </h2>
@@ -80,14 +78,6 @@ Goal:
 
 ---
 
-# 📂 Featured Projects
-
-- 🎓 Student Depression Prediction
-- 🤖 AI Learning Buddy
-- 📊 Student Marks Prediction
-- ❤️ Healthcare Dashboard
-- 🌱 Plant Disease Detection
-- ⭐ Fake Review Detection
 
 ---
 
@@ -123,54 +113,5 @@ Goal:
 
 ---
 
-# 🐍 Snake Animation
 
-> After creating your profile repository, enable the GitHub Action for the snake animation.
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/swati2064/swati2064/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=swati2064&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=swati2064&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/swati2064">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://linkedin.com/in/swati-jadhav-b759a6315">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
-
----
-
-# 🌊 Animated Wave Footer
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
-</p>
